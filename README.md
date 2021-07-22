@@ -1,12 +1,20 @@
 # login with custom api
 
-## In main folder and in server folder
+## Setup
 ```
+npm install
+cd server
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Run server before main app
 ```
+npm start
+```
+
+### Run app
+```
+cd ..
 npm run serve
 ```
 
