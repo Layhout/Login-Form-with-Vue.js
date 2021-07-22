@@ -1,6 +1,6 @@
-# login
+# login with custom api
 
-## Project setup
+## In main folder and in server folder
 ```
 npm install
 ```
